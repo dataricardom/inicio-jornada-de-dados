@@ -14,4 +14,4 @@ Readme de Configuração de Python
 
 [Link para o google](https://google.com)
 
-![Link de Imagem](https://images.app.goo.gl/FMNUQ2tfduE7E6B66)
+![Link de Imagem](https://alyssonmach.github.io/Minicurso-Git-e-GitHub/img/5.png)
